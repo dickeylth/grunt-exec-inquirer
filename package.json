@@ -1,0 +1,14 @@
+{
+  "name": "grunt-exec-inquirer",
+  "version": "0.0.1",
+  "dependencies": {
+    "inquirer": "^3.2.3"
+  },
+  "scripts": {
+    "abc": "node ./inquirer.js"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-exec": "^3.0.0"
+  }
+}
