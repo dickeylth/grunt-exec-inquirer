@@ -18,3 +18,7 @@ Running "exec:test" (exec) task
 ❯ foo
   bar ^[[B^[[B^[[B^[[B^[[B^[[B^C
 ```
+
+## Links
+
+- [grunt-exec issue#85](https://github.com/jharding/grunt-exec/issues/85)
